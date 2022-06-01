@@ -1,7 +1,7 @@
 package Week2;
 import java.util.Scanner;
 
-public class BookStore {
+class BookStore {
 	Book books[];
 	
 	BookStore(int num) {
